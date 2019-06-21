@@ -1,29 +1,6 @@
-# skeletondemo
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
+# vue-cli3 骨架屏
+目前最新的vue-cli3 + postcss + page-skeleton-webpack-plugin 打造的H5的骨架屏
+ 
+## 安装方法
+npm i 
 npm run dev
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
