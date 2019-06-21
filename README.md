@@ -2,9 +2,11 @@
 目前最新的vue-cli3 + postcss + page-skeleton-webpack-plugin 打造的H5的骨架屏
  
 ## 安装方法
-npm i <br />
+`npm i` <br />
 
-npm run dev
+`npm run dev` <br />
+
+`npm run build`
 
 ## 项目截图：
 
