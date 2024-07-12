@@ -7,7 +7,7 @@ app.get('./', (req, res)=> {
 app.listen(9000)
 
 console.log('http://localhost:9000')
-console.log('服务器开启成功');
+console.log('服务器开启成功1');
 
 
                                                             
